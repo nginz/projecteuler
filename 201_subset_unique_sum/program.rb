@@ -1,5 +1,3 @@
-# This is a brute-force solution. It only works for the small dataset. 
-# I implemented it as an exercise for some common algorithms
 class Array
   # Ascending binary search
   def bsearch_index(key)
